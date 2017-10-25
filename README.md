@@ -9,3 +9,5 @@ changes made in branch after writing squash in master
 squash test
 
 this is edit from webstrom
+
+this is written in github portal
