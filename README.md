@@ -11,3 +11,4 @@ squash test
 this is edit from webstrom
 
 this is written in github portal
+for terminal test
